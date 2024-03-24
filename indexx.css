@@ -31,3 +31,18 @@ button {
 .haha-yes {
     background-color: green;
 }
+
+.haha-page {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 14px;
+    margin-left: 15px;
+    color: black;
+    font-size: 35px;
+    text-decoration: none;
+    border: 2px solid black;
+    display: none;
+}
