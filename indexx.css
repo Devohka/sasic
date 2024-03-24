@@ -1,0 +1,33 @@
+.haha-box {
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 2px solid black;
+    width: 500px;
+    height: 250px;
+    border-radius: 25px;
+}
+
+.haha-text {
+    margin-left: 15px;
+    font-size: 45px;
+}
+
+button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 14px;
+    margin-left: 15px;
+    color: white;
+    font-size: 35px;
+}
+
+.haha-no {
+    background-color: brown;
+}
+
+.haha-yes {
+    background-color: green;
+}
